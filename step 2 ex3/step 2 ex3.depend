@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610623879 source:c:\users\youcode\documents\step 2 ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
